@@ -12,10 +12,11 @@ First draft done for:
 * Freedom U540 IO and Power
 * DDR 4x8 32 bits
 * DDR 4x8 32 bit and ECC
+* Freedom U540 DDR and Chiplink
 
 It remains to finish and check power circuits for this list. 
 
-Freedom U540 DDR and Chiplink and board are in progress. 
+Teh first draft of the Board in progress. 
 
 
 (C) 2018, Fork Sand, Inc.
