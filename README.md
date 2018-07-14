@@ -16,7 +16,7 @@ First draft done for:
 
 It remains to finish and check power circuits for this list. 
 
-Teh first draft of the Board in progress. 
+The first draft of the Board in progress. 
 
 
 (C) 2018, Fork Sand, Inc.
