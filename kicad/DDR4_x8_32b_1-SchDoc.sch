@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr C 22000 17000
