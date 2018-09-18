@@ -13,10 +13,11 @@ First draft done for:
 * DDR 4x8 32 bits
 * DDR 4x8 32 bit and ECC
 * Freedom U540 DDR and Chiplink
+* First draft of the Board
 
-It remains to finish and check power circuits for this list. 
+It remains to finish and check power circuits for this list.
 
-The first draft of the Board in progress. 
+The second draft, release of the Board in progress.
 
 
 (C) 2018, Fork Sand, Inc.
