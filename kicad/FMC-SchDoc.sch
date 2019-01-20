@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr C 22000 17000
@@ -1548,7 +1547,7 @@ F 3 "" H 9980 6020 50  0001 C CNN
 $EndComp
 Connection ~ 9980 6020
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 1 1 5B259F82
 P 4045 4530
 F 0 "J9" H 3865 6555 50  0000 L CNN
@@ -1559,7 +1558,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 4195 6630 50  
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 2 1 5B28FD52
 P 7250 4515
 F 0 "J9" H 7085 6535 50  0000 L CNN
@@ -1570,7 +1569,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 7400 6615 50  
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 3 1 5B2FB330
 P 12780 4520
 F 0 "J9" H 12610 6540 50  0000 L CNN
@@ -1581,7 +1580,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 12930 6620 50 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 4 1 5B331403
 P 16480 4520
 F 0 "J9" H 16315 6545 50  0000 L CNN
@@ -1592,7 +1591,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 16630 6620 50 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 5 1 5B3671B3
 P 19310 4455
 F 0 "J9" H 19145 6480 50  0000 L CNN
@@ -1603,7 +1602,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 19460 6555 50 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 6 1 5B39CE06
 P 4075 10310
 F 0 "J9" H 3910 12325 50  0000 L CNN
@@ -1614,7 +1613,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 4225 12410 50 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 7 1 5B3D2A65
 P 9050 10190
 F 0 "J9" H 8880 12215 50  0000 L CNN
@@ -1625,7 +1624,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 9200 12290 50 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 8 1 5B4735C3
 P 13610 10205
 F 0 "J9" H 13440 12235 50  0000 L CNN
@@ -1636,7 +1635,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 13760 12305 50
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 9 1 5B4A9142
 P 16535 10200
 F 0 "J9" H 16365 12215 50  0000 L CNN
@@ -1647,7 +1646,7 @@ F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 16685 12300 50
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:ASP-134602-01 J9
+L Connector:Samtec_ASP-134602-01 J9
 U 10 1 5B4DEBE5
 P 19405 10120
 F 0 "J9" H 19230 12140 50  0000 L CNN

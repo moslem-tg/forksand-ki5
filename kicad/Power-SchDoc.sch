@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr B 17000 11000
@@ -329,8 +328,6 @@ Wire Wire Line
 	5400 1400 4200 1400
 Wire Wire Line
 	4600 1600 5400 1600
-Wire Wire Line
-	2400 1500 2100 1500
 Wire Wire Line
 	2100 1600 2400 1600
 Wire Wire Line
@@ -1627,9 +1624,6 @@ F 3 "~" H 1850 1460 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2400 1600 2400 1800
-Wire Wire Line
-	2400 1500 2400 1600
-Connection ~ 2400 1600
 $Comp
 L Mechanical:MountingHole_Pad M1
 U 1 1 5B01EBC6
