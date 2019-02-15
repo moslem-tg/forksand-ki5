@@ -23,4 +23,4 @@ It remains to finish and check power circuits for this list.
 The second draft, release of the Board in progress.
 
 
-(C) 2018, Fork Sand, Inc.
+(C) 2018, 2019, Fork Sand, Inc.
