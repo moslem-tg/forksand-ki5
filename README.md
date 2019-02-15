@@ -3,6 +3,9 @@
 The ki5 board is a KiCAD port of SiFive's HiFive Unleashed board for the
 RISC-V processor.
 
+![ki5 pic](pics/ki5.png)
+
+
 First draft done for:
 
 * Ethernet
