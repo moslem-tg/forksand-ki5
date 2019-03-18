@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr C 22000 17000
@@ -2433,8 +2434,6 @@ Wire Wire Line
 NoConn ~ 4550 10950
 NoConn ~ 10560 10950
 Wire Wire Line
-	9475 12550 9475 12950
-Wire Wire Line
 	9475 12950 11260 12950
 NoConn ~ 16245 4950
 NoConn ~ 10455 4950
@@ -2968,6 +2967,16 @@ Wire Wire Line
 	17645 3350 18600 3350
 Wire Wire Line
 	17645 3250 18600 3250
+Wire Wire Line
+	9475 12550 9475 12950
+Wire Wire Line
+	11360 12850 11360 12950
+Wire Wire Line
+	11260 12850 11260 12950
+Wire Wire Line
+	11255 6850 11255 6950
+Wire Wire Line
+	11155 6850 11155 6950
 Wire Bus Line
 	3500 3150 3500 3350
 Wire Bus Line
