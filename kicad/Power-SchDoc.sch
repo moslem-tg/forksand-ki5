@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr B 17000 11000
@@ -1888,17 +1889,6 @@ Wire Wire Line
 	11005 1750 12150 1750
 Wire Wire Line
 	11005 2150 12250 2150
-$Comp
-L Transistor_FET:FDG6335N Q5
-U 2 1 5CD93B12
-P 3200 5100
-F 0 "Q5" H 3110 5330 50  0000 L CNN
-F 1 "FDG6335N" H 2875 5255 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" H 3400 5025 50  0001 L CIN
-F 3 "http://www.gneic.com/product/datasheet/FDG6335N-1122853.pdf" H 3200 5100 50  0001 L CNN
-	2    3200 5100
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2800 4800 3300 4800
 Wire Wire Line
@@ -2162,4 +2152,15 @@ Wire Wire Line
 Wire Wire Line
 	10705 2650 12250 2650
 Connection ~ 10705 2650
+$Comp
+L Transistor_FET:IRLML2060 Q5
+U 1 1 5C724162
+P 3200 5100
+F 0 "Q5" H 3100 5350 50  0000 L CNN
+F 1 "IRLML2060" H 2800 5250 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3400 5025 50  0001 L CIN
+F 3 "https://www.infineon.com/dgdl/irlml2060pbf.pdf?fileId=5546d462533600a401535664b7fb25ee" H 3200 5100 50  0001 L CNN
+	1    3200 5100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
