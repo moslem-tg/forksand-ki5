@@ -5,6 +5,8 @@ RISC-V processor.
 
 ![ki5 pic](pics/ki5.png)
 
+![ki5 board pic](pics/ki5-board.jpg)
+
 
 First draft done for:
 
