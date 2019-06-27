@@ -9,6 +9,7 @@ RISC-V processor.
 
 ![ki5 board reverse pic](pics/ki5-board-reverse.jpg)
 
+![reballed cpu pic](pics/cpu-reballed.jpg)
 
 First draft done for:
 
